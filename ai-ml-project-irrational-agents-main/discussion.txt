@@ -1,0 +1,16 @@
+Discussion Log Project3
+Tom and Jack
+12/09/2022
+
+(12/09/2022)
+We talked with Kyle, Tristan, and Sean’s group about the implementation of CSV dictionary readers, use of the Node class, 
+and how the DecisionTreeLearning() function should traverse through the data set. We also helped them with the tree printing algorithm.
+Tom drew Kyle a diagram of of how the algorithm moves through branches.
+
+Tom also came to the computer lab to ask about the confusion matrix values. (Thank you)
+
+Stack Overflow sources cited: (both on 12/07/2022)
+https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical
+User: mgilson
+https://stackoverflow.com/questions/20038011/trying-to-find-majority-element-in-a-list
+User: FogleBird
